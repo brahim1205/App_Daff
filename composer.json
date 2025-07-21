@@ -1,0 +1,15 @@
+{
+    "name": "cherif/app_daff",
+    "autoload": {
+        "psr-4": {
+            "Cherif\\AppDaff\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "brahim1205",
+            "email": "sadiocheri11@gmail.com"
+        }
+    ],
+    "require": {}
+}
