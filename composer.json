@@ -2,7 +2,7 @@
     "name": "cherif/app_daff",
     "autoload": {
         "psr-4": {
-            "Cherif\\AppDaff\\": "src/"
+            "Cherif\\App\\": "src/"
         }
     },
     "authors": [
