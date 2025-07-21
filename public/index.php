@@ -1,3 +1,3 @@
 <?php
 
-require_once __DIR__ . '/../App/config/boostrap.php';
+echo "Welcome to the Daff application! This is the entry point for your application.\n";
